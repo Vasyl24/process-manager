@@ -14,14 +14,14 @@ ____
 ____
 ## Результат
 Запуск програми
-<img src="./photo/start"></img>
+<img src="./photo/start.png"></img>
 
-<img src="./photo/start-1"></img>
+<img src="./photo/start-1.png"></img>
 ____
 Результат
-<img src="./photo/result-1"></img>
+<img src="./photo/result-1.png"></img>
 
-<img src="./photo/result-2"></img>
+<img src="./photo/result-2.png"></img>
 
-<img src="./photo/result-3"></img>
+<img src="./photo/result-3.png"></img>
 ____
