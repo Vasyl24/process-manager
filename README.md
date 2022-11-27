@@ -13,12 +13,12 @@ ____
 - Якщо виникає помилка, то виводити її користувачу
 ____
 ## Результат
-Запуск програми
+###Запуск програми
 <img src="./photo/start.png"></img>
 
 <img src="./photo/start-1.png"></img>
 ____
-Результат
+###Результат
 <img src="./photo/result-1.png"></img>
 
 <img src="./photo/result-2.png"></img>
