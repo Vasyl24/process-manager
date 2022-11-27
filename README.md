@@ -1,11 +1,12 @@
-# Process manager
-My solution for C++ task for Kodisoft Internship 2015. The task was to create thread-safe windows process manager.
-
-## Features
-- create process by specifying command line with args or open existing one specifying pid;
-- restart (with the same command line and args) and close process; 
-- retrieve process info (`id`, `handle`, `status`);
-- stop process (without restart) and start it again;
-- log all events into console or file;
-- add `std::function<void()>` callbacks to all events;
-- work both with unicode and ascii characters.
+# Проєкт "Менеджер процесів"
+## Зміст
+1. [Опис](#Опис)
+2. [Вимоги](#Вимоги)
+____
+## Опис
+Менеджер процесів дозволяє запуск усіх додатків з необхідними параметрами і перезапуск при передчасному завершенні додатку.
+____
+## Вимоги
+- Менеджер процесів повинен відстежувати чи всі додатки запущені з необхідними параметрами
+- Перезапускати додаток при передчасному завершені
+- Якщо виникає помилка, то виводити її користувачу

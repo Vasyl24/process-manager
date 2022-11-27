@@ -27,8 +27,8 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6F34D4A4-E1C2-4756-AB23-4FF97721E9CE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>kodisoft</RootNamespace>
-    <ProjectName>kodisoft</ProjectName>
+    <RootNamespace>automotive</RootNamespace>
+    <ProjectName>automotive</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
